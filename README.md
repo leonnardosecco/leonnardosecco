@@ -59,8 +59,7 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonnardosecco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_radius=8&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnardosecco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnardosecco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Most Used Languages" />
 
 <br/><br/>
 
@@ -69,11 +68,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=leonnardosecco&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub Streak — sequência e contribuições" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonnardosecco&custom_title=Combat%20Heatmap%20%2F%20Last%2012%20Months&bg_color=0D1117&color=79C0FF&line=30363D&point=79C0FF&area=true&hide_border=true" alt="Mapa de calor de contribuições" width="850" />
+<img src="https://streak-stats.demolab.com/?user=leonnardosecco&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub Streak — sequência e contribuições" />
 
 <br/><br/>
 
