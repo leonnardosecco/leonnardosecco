@@ -3,7 +3,7 @@
 <!-- Troque o src por um banner HUD SAO full-width personalizado se quiser -->
 <br/>
 
-<img src="https://media.giphy.com/media/l378yVHSywMYFQD8Q/giphy.gif" alt="Kirito — tom escuro / SAO" width="400" />
+<img src="https://media.giphy.com/media/TnUJHKyjwHXOM/giphy.gif" alt="Kirito — Sword Art Online" width="400" />
 
 <br/><br/>
 
